@@ -1,0 +1,20 @@
+D:\SureScript and Emdeon servers\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.csprojAssemblyReference.cache
+D:\SureScript and Emdeon servers\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.Properties.Resources.resources
+D:\SureScript and Emdeon servers\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.csproj.GenerateResource.cache
+D:\SureScript and Emdeon servers\SentimentAnalyzer\bin\Debug\SentimentAnalyzer.exe.config
+D:\SureScript and Emdeon servers\SentimentAnalyzer\bin\Debug\SentimentAnalyzer.exe
+D:\SureScript and Emdeon servers\SentimentAnalyzer\bin\Debug\SentimentAnalyzer.pdb
+D:\SureScript and Emdeon servers\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.exe
+D:\SureScript and Emdeon servers\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.pdb
+D:\SureScript and Emdeon servers\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.frmDSGenerator.resources
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\bin\Debug\SentimentAnalyzer.exe.config
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\bin\Debug\SentimentAnalyzer.exe
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\bin\Debug\SentimentAnalyzer.pdb
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.csprojAssemblyReference.cache
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.frmDSGenerator.resources
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.Properties.Resources.resources
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.csproj.GenerateResource.cache
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.csproj.CoreCompileInputs.cache
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.exe
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.pdb
+E:\BCS\FYP\Scraping Code\SentimentAnalyzer\obj\Debug\SentimentAnalyzer.Form2.resources
